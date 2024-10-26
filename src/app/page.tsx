@@ -1,10 +1,10 @@
 
-import Navbar from "./components/navbar";
+
 import Hero from "./components/hero";
 import About from "./components/about";
 import Projects from "./components/ourprojects";
 import Contact from "./components/contactus";
-import Footer from "./components/footer";
+
 import { Roboto } from 'next/font/google';
 
 const roboto = Roboto({
